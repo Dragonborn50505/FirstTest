@@ -1,0 +1,6 @@
+using System;
+public class EnemyFighter 
+{
+public int EnemyHp = 100;
+
+}
